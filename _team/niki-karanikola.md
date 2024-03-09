@@ -5,7 +5,7 @@ image: ""
 jobtitle: "Ambassador"
 linkedinurl: "https://www.linkedin.com/in/niki-karanikola/"
 promoted: true
-weight: 1
+weight: 3
 ---
 
 ...
